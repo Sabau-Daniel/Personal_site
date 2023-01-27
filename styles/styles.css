@@ -1,0 +1,164 @@
+h2
+{   text-align: center;
+    size: 3rem;
+    color: #00ADB5;
+    
+}
+
+.first_heading
+{
+    padding-top: 12rem;
+    text-align: center;
+    color: #EEEEEE;
+}
+
+.second_heading{
+    padding: 4rem 0 3rem 4rem;
+    font-size: 4rem;
+    font-weight: 650;
+    color: #222831;
+}
+
+.third_heading{
+    padding: 4rem 0 3rem 4rem;
+    font-size: 4rem;
+    font-weight: 650;
+    color: #EEEEEE;
+}
+
+.first_section{
+    padding-bottom: 10rem;
+    background-color: #222831;
+}
+
+.second_section{
+    background-color: #A2B29F;
+    padding: 1% 5%;
+}
+
+.third_section{
+    background-color: #222831;
+    padding: 2rem 3rem 3rem;
+}
+
+.final_section{
+    text-align: center;
+    padding: 5% 30% 5%;
+    background-color: black;
+    color: #fff;
+}
+
+.description{
+    margin-bottom: 5rem;
+}
+
+.navbar_center{
+    padding: 0 10% 0 2%;
+}
+
+
+.allign_center{
+    text-align: center;
+}
+
+
+
+.bg-color{
+    background-color: #00ADB5;;
+}
+
+.navbar_contents{
+    font-size: large;
+    font-weight: 600;
+}
+.navbar_contents:hover{
+    color: #fff;
+}
+
+.button_style{
+    
+    outline-style: none;
+    color:#00ADB5;
+    font-weight: 500;
+}
+
+.button_style:hover{
+    color: #fff;
+}
+
+.navbar_logo{
+    margin-left: 1rem;
+    width: 3rem;
+}
+
+.second_section_bullet_pts{
+    margin: 1rem 5rem 1rem 6rem;
+    font-size: 2rem;
+    font-weight: 500;
+}
+.second_section_ending{
+    padding: 3rem 6rem 4rem 6rem;
+    text-align: center;
+    font-size: 2.5rem;
+    
+}
+
+.links{
+    color: #00ADB5;
+    text-decoration: none;
+}
+
+.links:hover{
+    color: #EEEEEE;
+}
+
+.third_heading_title{
+    padding: 2rem 0 5rem;
+    font-size: 2.5rem;
+}
+
+.pad_bot_card{
+    padding-bottom: 5%;
+}
+
+.card_color{
+    background-color: #A2B29F;
+}
+
+.card_body_color{
+    color: #EEEEEE;
+    background-color: #393E46;
+}
+
+.first_card_body{
+    padding-bottom: 1.5rem;
+}
+
+.site_pic{
+    width: 100%;
+    padding-bottom: 1rem;
+}
+
+.project_p{
+    font-weight: 650;
+}
+
+.project_link{
+    color: #EEEEEE;
+    font-weight: 650;
+    text-decoration: none;
+}
+
+.project_link:hover{
+    color: #00ADB5;
+}
+
+.icon{
+    padding: 8% 7% 0;
+    text-decoration: none;
+    color: #fff;
+}
+
+.icon:hover{
+    color: #00ADB5;
+}
