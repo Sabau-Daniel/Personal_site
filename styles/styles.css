@@ -183,8 +183,8 @@ h2
 @media (max-width: 720px) {
   
     /* second section */
-    
-.second_section{
+
+    .second_section{
         text-align: center;
     }
 
@@ -194,7 +194,6 @@ h2
 
     .second_section_bullet_pts{
         margin: 0;
-        padding-right: 1rem;
         padding-bottom: 4%;
         font-size: 1.2rem;
         list-style: none;
@@ -215,7 +214,7 @@ h2
 
     .third_heading_title{
         font-size: 1.5rem;
-        padding: 2%;
+        padding : 2%;
     }
 
     /* final section */
