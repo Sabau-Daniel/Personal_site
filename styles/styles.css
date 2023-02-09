@@ -185,24 +185,39 @@ h2
     /* second section */
 
     .second_section{
-        text-align: center;
-    }
+    background-color: #A2B29F;
+    padding: 1% 5%;
+}
 
-    .second_heading{
-        font-size: 3rem;
-    }
+.second_heading{
+    padding: 4rem 0 3rem;
+    font-size: 4rem;
+    font-weight: 650;
+    color: #222831;
+}
 
-    .second_section_bullet_pts{
-        margin: 0;
-        padding-bottom: 4%;
-        font-size: 1.2rem;
-        list-style: none;
-    }
+.second_section_bullet_pts{
+    margin: 0;
+    padding-right:1rem;
+    font-size: 2rem;
+    font-weight: 500;
+}
 
-    .second_section_ending{
-        padding: 2% 2% 4%;
-        font-size: 1.2rem;
-    }
+.second_section_ending{
+    padding: 3rem 6rem 4rem;
+    text-align: center;
+    font-size: 2.5rem;
+    
+}
+
+.links{
+    color: #00ADB5;
+    text-decoration: none;
+}
+
+.links:hover{
+    color: #EEEEEE;
+}
 
     /* third section */
 
