@@ -1,10 +1,12 @@
+
+
 /*<---------------h's--------------->*/
 
 h2
 {   text-align: center;
     size: 3rem;
     color: #00ADB5;
-    
+
 }
 
 /* navbar */
@@ -57,7 +59,7 @@ h2
 }
 
 .button_style{
-    
+
     outline-style: none;
     color:#00ADB5;
     font-weight: 500;
@@ -70,7 +72,7 @@ h2
 /* second section */
 
 .second_section{
-    background-color: #A2B29F;
+    background-color: #c7c7c7;
     padding: 1% 5%;
 }
 
@@ -92,7 +94,7 @@ h2
     padding: 3rem 6rem 4rem;
     text-align: center;
     font-size: 2.5rem;
-    
+
 }
 
 .links{
@@ -128,7 +130,7 @@ h2
 }
 
 .card_color{
-    background-color: #A2B29F;
+    background-color: #c7c7c7;
 }
 
 .first_card_body{
@@ -181,7 +183,7 @@ h2
 /* phone size */
 
 @media (max-width: 720px) {
-  
+
     /* second section */
 
     .second_section{
